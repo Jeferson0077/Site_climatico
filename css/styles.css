@@ -21,8 +21,8 @@ body {
 }
 
 .container {
-    background-color: #5cade7;
-    box-shadow: rgba(82, 81, 81, 0.195) 0px 3px 8px;
+    background-color: rgba(72, 116, 147, 0.8);
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 3px 8px;
     padding: 2rem;
     color: rgb(255, 255, 255);
     border-radius: 1rem;
